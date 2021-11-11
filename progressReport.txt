@@ -1,0 +1,55 @@
+Progress report team1-2 (Ege SARI s1034535 Alperen OZKURT s1037565)
+
+W45 2-8 November 
+
+We have worked on fixing DHT-22, our humidity sensor. 
+We have accomplished to fix it but it is unstable so we have decided to work with a 
+humidity-temperature sensor shield SHT-30 in order to make progress and SHT-30 works. 
+Also we have worked about sending an e-mail to users when the temperature or 
+humidity is anormal in the room space and managed it! In conclusion, we have done 
+debugging and fixing and also added a new feature about sending an e-mail with related 
+to humidity-temperature sensor.
+
+
+W46 9-15 November
+
+We have worked on creating a web iste for the users as a user interface, where the users
+ can change the e-mail address to send or to receieve and also the users can change the 
+ intervals for safe limits of temperature and humidity levels. Besides this, we have 
+ created an executable file of our python program and merged it with our website so 
+ when the executable file is on run, both Arduino (temperature and humidity) and 
+ Python(CO2 levels and amount of volatile organic compounds) will work. We have done 
+ that but since Raspberry pi 4 is a bit slow, we couldn't manage to run that. In finally, 
+ we have also started to work on a cover which fits on the raspberry pi and cables so that 
+ our project would look nice.
+
+W47 16-22 November
+
+We have finished our 3D project for cover but it didn't worked because we have designed it in milimeters. So for that we failed, we will work on that next week. Also we have improved the graphical user interface for the inputs, which looks more stylish.
+
+
+W48 23-29 November
+
+We have worked on the cover for our components and we have managed it, the last job for this is to decorate it with coloured papers or paint. Also we have nearly completed our interface for users.
+
+W49 30 November-6 December
+
+We have completed the interface for users and worked on debugging for some small mistakes and problems. Also we have worked on the intervals for optimal temperature values.
+
+
+W50 7-13 December
+
+We have completed most parts of the project. We have managed to connect all components together and connected it with user interfaces, warning e-mail system. Also we have attached a distance sensor in order to check if the user use thermometer in a correct way. Also we have completed a cover for the components. So we are close to the end. Next week we are planning to record a video for demonstration of our project and we will write a proper report and also we are planning to present our project.
+
+
+W51 14-20 December
+We have completed the project! We have also added Url section for IP cameras and also tested our project. It works as wanted. We have recorded some videos and taken some pictures. Also while I was writing this report, we are uploading the project code to here, Gitlab. 
+We have completed the project in time and we are very happy about it.
+
+W52 21-27 December
+
+W53 28 December-3 January
+
+W1 4-10 January
+
+w2 11-17 January
